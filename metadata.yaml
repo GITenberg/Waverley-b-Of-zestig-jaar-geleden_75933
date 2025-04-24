@@ -1,0 +1,46 @@
+_repo: Waverley-b-Of-zestig-jaar-geleden_75933
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Lindo, M. P. (Mark Prager)
+    aliases:
+    - Lindo, Mark Prager
+    - Lindo, Dr.
+    birthdate: 1819
+    deathdate: 1877
+    gutenberg_agent_id: '32102'
+    url: http://www.gutenberg.org/2009/agents/32102
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Mark_Prager_Lindo
+    - https://nl.wikipedia.org/wiki/Mark_Prager_Lindo
+creator:
+  author:
+    agent_name: Scott, Walter
+    aliases:
+    - Scott, Sir Walter
+    - Malagrowther, Malachi
+    - Cleishbotham, Jedediah
+    - Templeton, Laurence
+    birthdate: 1771
+    deathdate: 1832
+    gutenberg_agent_id: '59'
+    url: http://www.gutenberg.org/2009/agents/59
+    wikipedia: https://en.wikipedia.org/wiki/Walter_Scott
+description: ''
+gutenberg_issued: '2025-04-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75933'
+language: nl
+pgterms:marc905: 20250420090919scott
+pgterms:marc906: '1872'
+pgterms:marc907: NL
+production_note: Nico Winkel and Jeroen Hellingman for Project Gutenberg
+publication_note: '  $aLeiden :$bS C. van Doesburgh / IJkema & Van Gijn, $c1872.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Waverley : $b Of zestig jaar geleden'
+url: http://www.gutenberg.org/ebooks/75933
