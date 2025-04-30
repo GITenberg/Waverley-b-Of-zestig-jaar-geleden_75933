@@ -13,6 +13,9 @@ contributor:
     wikipedia:
     - https://en.wikipedia.org/wiki/Mark_Prager_Lindo
     - https://nl.wikipedia.org/wiki/Mark_Prager_Lindo
+covers:
+- cover_type: archival
+  image_path: 75933-h/images/new-cover.jpg
 creator:
   author:
     agent_name: Scott, Walter
@@ -27,6 +30,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/59
     wikipedia: https://en.wikipedia.org/wiki/Walter_Scott
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75933#Waverley-b-Of-zestig-jaar-geleden
 gutenberg_issued: '2025-04-21'
 gutenberg_type: Text
 identifiers:
